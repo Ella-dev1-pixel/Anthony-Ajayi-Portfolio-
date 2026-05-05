@@ -1,2 +1,2 @@
-# Anthony-Ajayi-Portfolio-
+# Anthony-Ajayi-Portfolio
 A Simple Responsive Portfolio For My Hero
